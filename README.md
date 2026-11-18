@@ -30,12 +30,28 @@ The project includes data cleaning, analysis and an HR dashboard.
 5. Develop visualisations and an HR dashboard.
 6. Interpret the findings.
 
-## 📊 Key Analysis
-Add the actual analysis performed in this project:
-- Employee distribution
-- Department-wise analysis
-- Employee demographics
-- Other HR-related trends supported by the dataset.
+## 📊 Power BI Dashboard Preview
+
+The project includes an interactive HR Analytics Dashboard
+created using Microsoft Power BI.
+
+![HR Analytics Dashboard](dashboard/a1.png)
+
+### Dashboard KPIs
+- Total Employees: 920
+- Total Attrition: 127
+- Attrition Rate: 13.80%
+- Average Age: 37
+- Average Monthly Salary: 6.31K
+- Average Working Years: 6.9
+
+### Dashboard Visualisations
+- Attrition by Gender
+- Attrition by Education
+- Attrition by Age Group
+- Attrition by Salary
+- Attrition by Job Role
+- Attrition by Years at Company
 
 ## 💡 Key Insights
 Add 3–5 findings from your actual analysis here.
